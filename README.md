@@ -39,4 +39,4 @@ This project is licensed under the [MIT License](LICENSE), allowing for modifica
 - Thanks to the creators and contributors of the libraries and frameworks used in this project for their valuable contributions.
 
 ## Contact
-For questions, feedback, or inquiries about the project, please contact [Navtej Kumar Singh](pbitsector.solution8935@gmail.com).
+For questions, feedback, or inquiries about the project, please contact [Ranshhh](pbitsector.solution8935@gmail.com).
